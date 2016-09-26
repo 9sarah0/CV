@@ -1,9 +1,17 @@
 #Sarah Alalaya
 
- [About me](#about_me) | [Highlights](#highlights) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+ [About me](#about_me) | [Highlights](#highlights) | [Skills](#skills) | [Projects](#projects) | [Reviews](#reviews) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 ## About me
-Beginning career Electronics Engineer who is active, involved, and passionate about programming and desires a career focused in the field. Young, yet hard-working experienced programming in researching and web development. It was whilst studying at university, that I discovered coding and that I wanted to find out more. That's why I recently decided to quit my job as a Biomedical Engineer and join the Makers Academy 16 weeks intensive coding course.
+My name is Sara, and I am an Engineer. I imagine, I believe, I collaborate, I plan, I execute and I build. I have a passion for making a difference and for improving people's quality of life.
+
+Driven by the goal of helping patients with [Muscular Dystrophy](https://en.wikipedia.org/wiki/Muscular_dystrophy), together with my university senior project partner we designed a Brain Computer Interface that enables the patient to navigate his wheelchair simply by thinking the direction of the navigation desired. We were very proud of our project's results where the average accuracy of the system is 91% on the overall and as high as 97.5% for some users.
+
+Working on that project landed me my first job as a Biomedical Engineer. There were a lot of fault detection and diagnosis, preventive maintenance, and end-user demonstration and training. All of that was great, but then it just became routine. And since it was not a manufacturer company, they didn't have a research and development department and that did not indulge my desire to make an impact on people's lives.
+
+Although the university program had only a few number of code related courses, I developed a passion for coding. It blew my mind the number of potential things I could be doing with this superpower. It is beyond question the impact of software applications on people's lives. One of the main decisions in my life that led to where and who I am now was quitting my job to join [Makers Academy](http://www.makersacademy.com) (a highly selective 16 weeks intensive coding course). Today, having completed MA course I can't wait to get my first role as a junior developer and start building cool applications following the best practices I've been learning the past four months.
+
+
 
 ## Highlights
 - **Web Developer Bootcamp:** Makers Academy (2016)
@@ -35,7 +43,7 @@ Be it meeting a deadline, learning something completely new, or working out of m
 #### Committed / Self-motivated
 
 Whenever I take a decision I am always all in.
-- I did Makers Academy Ronin course, which is the remote option. Even though studying remotely has its advantages, you lose the motivating atmosphere of a class room. And to be in front of a computer for more that 9 hours every day of the week takes serious commitment and responsibility.
+- I did Makers Academy Ronin course, which is the remote option. Even though studying remotely has its advantages, you lose the motivating atmosphere of a class room. And to be in front of a computer for more that 9 hours every day of the week takes serious commitment and motivation.
 
 
 #### Software Development
@@ -52,6 +60,15 @@ Coming from an engineering background, and being at Makers Academy for 16-weeks 
 |:-------------:|:-----------:|:-------------:|:-----------------:|:-------:|:----------|
 | [Run to Riches](https://github.com/9sarah0/PlatformerRun) |4| An android game-ified running app that will inspire people to get out and RUNNN | Java, Android Studio | Junit, |-Non of the team members had any experience with Java, or building any kind of mobile apps. <br> -Following TDD with an unfamiliar language.<br> -Time |
 | [Volunteer Matcher](https://github.com/arukomp/volunteer-matcher) |5| A job board for voluntary opportunities including a rewards scheme | Javascript, Node.js, Express, MongoDB | Mocha, Chai, Zombie|-We had only 3 and a half days to work on the project. <br>  -Most of the technologies used were new to us including non-relational databases |
+
+## Reviews
+Here is what my final project team thought of me:
+
+_"Sara picks up new tech extremely quickly, and she is very good at managing an approach to solving problems"_ - [Ross Hamilton](https://github.com/SlipperyJ)
+
+_"Very quickly adapted to a new language (java) and applied syntax"_ - [Robert Summers](https://github.com/Rob-rls)
+
+_"Great teacher / communication skills"_ - [Alban Allen](https://github.com/albiebabie)
 
 
 ## Education
